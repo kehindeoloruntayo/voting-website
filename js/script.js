@@ -6,6 +6,6 @@ $(document).ready(function() {
       window.location.href = "legal.html";
     } else {
       window.location.href = "underage.html";
-    }
+    } 
   });
 });
